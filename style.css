@@ -2,3 +2,10 @@ html {
   background-color: #008000;
   color: #FFE000;
 }
+.title {
+  text-align: center;
+  padding: 10px;
+  height: 40px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
