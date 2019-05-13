@@ -1,11 +1,11 @@
 html {
   background-color: #008000;
   color: #FFE000;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 .title {
   text-align: center;
   padding: 10px;
   height: 60px;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
 
 }
