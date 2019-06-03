@@ -9,6 +9,13 @@ html {
   padding: 10px;
   height: 60px;
   margin: auto;
-  width: 
 
+}
+
+.flag {
+  height: 500px;
+  width: 250px;
+  text-align: center;
+  float: 10px;
+  margin: 5px;
 }
